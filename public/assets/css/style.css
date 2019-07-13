@@ -1,0 +1,36 @@
+img {
+    width: 25%;
+    height: 25%;
+}
+
+body{
+    background-color: lightgray
+}
+
+.title {
+    color: white;
+    font-family: Cabin, 'Courier New', Courier, monospace
+}
+
+.cardContainer {
+    border: 1px solid orangered;
+}
+
+.articleCard {
+    float: left;
+    width: 40%;
+}
+
+.buttontext {
+    color: white;
+    font-family: Cabin, 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+}
+
+#disabledTextInput {
+    width: 50%;
+}
+
+#deleteButton {
+    float: right;
+}
